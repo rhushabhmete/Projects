@@ -1,4 +1,4 @@
-# Projects
+# Sales Projects
 Domain: FMCG Function: Sales / Promotions
 
 Project Description:
